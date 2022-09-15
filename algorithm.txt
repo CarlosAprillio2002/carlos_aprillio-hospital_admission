@@ -10,3 +10,4 @@
 10. Menemui dokter dengan jadwal checkup yang sudah didaftarkan sebelumnya
 11. Menunggu hasil checkup
 12. Pasien menerima hasil checkup
+13. Jika hasil checkup termasuk golongan sakit berat->Pasien memilih mau melakukan rawat inap atau tidak
