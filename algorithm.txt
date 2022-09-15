@@ -8,3 +8,5 @@
 8. Pengguna melakukan input form pendaftaran dengan menggunakan Nama,Umur,Gejala
 9. Memilih jadwal checkup beserta dokter yang tersedia
 10. Menemui dokter dengan jadwal checkup yang sudah didaftarkan sebelumnya
+11. Menunggu hasil checkup
+12. Pasien menerima hasil checkup
