@@ -1,0 +1,5 @@
+1. Mulai 
+2. Membuka aplikasi pendaftaran pasien
+3. Membuat akun pengguna baru 
+4. verifikasi email pengguna baru
+5. Login kehalaman utama
