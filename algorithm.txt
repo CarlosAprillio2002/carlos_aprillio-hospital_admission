@@ -3,3 +3,7 @@
 3. Membuat akun pengguna baru 
 4. verifikasi email pengguna baru
 5. Login kehalaman utama
+6. Misalkan pengguna sedang sakit 
+7. Melakukan pendaftaran checkup ke rumah sakit
+8. Pengguna melakukan input form pendaftaran dengan menggunakan Nama,Umur,Gejala
+9. Memilih jadwal checkup beserta dokter yang tersedia
