@@ -24,3 +24,12 @@ IF "nama" checkup result with "desease_rate" {
         }
     }
 }
+IF "nama" checkup result with "desease_rate" {
+    then "nama" {
+        IF (desease_rate)=LOW{
+            do {
+                PRINT "-${nama} membeli obat (fromRecipe) dan tidak melakukan rawat inap" 
+                }
+        }
+    }
+}
