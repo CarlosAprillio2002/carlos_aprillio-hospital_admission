@@ -1,0 +1,5 @@
+READ AND WRITE "nama" with string
+READ AND WRITE "nik" with number
+READ AND WRITE "tempat_lahir" with string
+READ AND WRITE "tanggal_lahir" with date
+READ AND WRITE "email" with string
