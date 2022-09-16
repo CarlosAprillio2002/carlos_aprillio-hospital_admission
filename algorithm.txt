@@ -1,0 +1,15 @@
+1. Mulai 
+2. Membuka aplikasi pendaftaran pasien
+3. Membuat akun pengguna baru 
+4. verifikasi email pengguna baru
+5. Login kehalaman utama
+6. Misalkan pengguna sedang sakit 
+7. Melakukan pendaftaran checkup ke rumah sakit
+8. Pengguna melakukan input form pendaftaran dengan menggunakan Nama,Umur,Gejala
+9. Memilih jadwal checkup beserta dokter yang tersedia
+10. Menemui dokter dengan jadwal checkup yang sudah didaftarkan sebelumnya
+11. Menunggu hasil checkup
+12. Pasien menerima hasil checkup
+13. Jika hasil checkup termasuk golongan sakit berat->Pasien memilih mau melakukan rawat inap atau tidak
+14. Jika hasil checkup sakit ringan -> membeli obat sesuai saran dokter + tanpa rawat inap
+15. End
