@@ -12,3 +12,5 @@ STORE "tanggal_lahir" with 26-04-2002
 STORE "email" with "dominictukangbakso@gmail.com"
 STORE "umur" with 60
 STORE "gejala" with "Demam"
+IF "nama" receive checkup result "dateFromSchedule"
+    PRINT "-${nama} with (desease_rate)"
