@@ -3,3 +3,8 @@ READ AND WRITE "nik" with number
 READ AND WRITE "tempat_lahir" with string
 READ AND WRITE "tanggal_lahir" with date
 READ AND WRITE "email" with string
+STORE "nama" with "Dominic Toretto"
+STORE "nik" with 2019382918476128
+STORE "tempat_lahir" with "Tokyo"
+STORE "tanggal_lahir" with 26-04-2002
+STORE "email" with "dominictukangbakso@gmail.com"
