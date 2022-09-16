@@ -14,3 +14,13 @@ STORE "umur" with 60
 STORE "gejala" with "Demam"
 IF "nama" receive checkup result "dateFromSchedule"
     PRINT "-${nama} with (desease_rate)"
+IF "nama" checkup result with "desease_rate" {
+    then "nama" {
+        IF (desease_rate)=HIGH{
+            ("nama") = "rawat inap"
+        }
+        ELSE {
+            ("nama" = null!)
+        }
+    }
+}
